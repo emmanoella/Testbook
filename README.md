@@ -5,7 +5,7 @@
 
 ## How
 
-*Instalation de gitbook depuis une image docker.
+* Instalation de gitbook depuis une image docker.
 
     Une image de docker gitbook pour vous permettre de construire et de publier votre documentation.
 
