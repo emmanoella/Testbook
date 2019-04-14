@@ -1,6 +1,6 @@
 # c'est quoi 
 
- color:green GitBook est une plate-forme de documentation moderne où les équipes peuvent tout documenter
+GitBook est une plate-forme de documentation moderne où les équipes peuvent tout documenter[color=#26B260]
 
 
 ## How
