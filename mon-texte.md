@@ -1,11 +1,13 @@
 **salut**
+
 _hello_
+
 __hi__
 
 ```cs 
 votre message
 ```
-```diff
-# hello
-```
+color:red hello
+
+color:green salut 
 
