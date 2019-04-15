@@ -1,15 +1,9 @@
 # c'est quoi 
 
-GitBook est une plate-forme de documentation moderne où les équipes peuvent tout documenter 
-[color=#26B260]
-Gitbook peut etre utilisé pour créer un livre, une documentation publique, un manuel 
+* GitBook est une plate-forme de documentation moderne où les équipes peuvent tout documenter 
+
+* Gitbook peut etre utilisé pour créer un livre, une documentation publique, un manuel 
 d'entreprise, une thèse, etc.
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-```
-
 
 
 ## How
